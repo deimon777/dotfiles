@@ -130,8 +130,8 @@
          id="rect"
          style="fill:blue;"
          usecurrent="1"
-         width="1360.29"
-         height="714.429"
+         width="555.796"
+         height="366.577"
          ry="0"
          rx="0" />
       <eventcontext
@@ -672,7 +672,7 @@
          value="selection" />
       <group
          id="defaultxdpi"
-         value="150.114" />
+         value="95.9432" />
     </group>
     <group
        id="save_as"
@@ -1150,7 +1150,7 @@
      org.inkscape.raster.png_output.tab="lossless" />
   <group
      id="desktop"
-     style="fill:#008000;-inkscape-font-specification:'Changa One';font-family:'Changa One';font-size:55px;stop-color:#000000;line-height:1;stroke-linejoin:round;paint-order:fill markers stroke;text-anchor:middle;text-align:center;opacity:0.61803753">
+     style="fill:#ffffff;-inkscape-font-specification:'Changa One';font-family:'Changa One';font-size:55px;stop-color:#000000;line-height:1;stroke-linejoin:round;paint-order:fill markers stroke;text-anchor:middle;text-align:center;stroke:#ffffff;stroke-width:1.88976378">
     <group
        width="1024"
        height="718"
