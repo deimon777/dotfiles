@@ -14,8 +14,10 @@
 (icon-size small)
 (color-profile-policy convert)
 (image-convert-indexed-max-colors 255)
+(layer-new-name "borde mapita")
 (selection-feather-radius 100)
 (selection-feather-edge-lock no)
+(selection-grow-radius 20)
 (selection-shrink-radius 5)
 (fill-options
     (style solid)
